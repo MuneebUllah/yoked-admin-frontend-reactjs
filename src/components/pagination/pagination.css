@@ -1,0 +1,22 @@
+.active-page {
+    background-color:  #E4774F !important;
+    /* Your active page background color */;
+    height: 2.75rem;
+    width: 2.75rem;
+    border-radius: 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white !important;
+  }
+  
+  .page {
+    background-color: white/* Your page background color */;
+    height: 2.75rem;
+    width: 2.75rem;
+    border-radius: 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  

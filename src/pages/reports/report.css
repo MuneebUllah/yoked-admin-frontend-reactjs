@@ -1,0 +1,38 @@
+  
+  .featured-project-cart {
+    display: flex;
+    justify-content: center;
+    width: 257px !important;
+    
+  }
+  
+  .featured-project-cart img {
+    border-radius: 1rem;
+  }
+  
+  .test-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+  }
+  
+  .test-button .arrows {
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+    padding: 0.5rem;
+    color: white;
+    background-color: #219ebc;
+    cursor: pointer;
+  }
+.swiper-button-prev{
+  display: none !important; 
+}
+.swiper-button-next{
+  display: none !important; 
+}
+
+ .swiper-pagination-bullet-active{
+  background-color:#E4774F !important ;
+ }
